@@ -18,6 +18,7 @@ The project includes:
 
 # Download and Prepare the UTKFace Dataset:
 Obtain the UTKFace dataset and place it in the ./UTKFace/ directory                                                                                                                  
+Download link: https://www.kaggle.com/datasets/jangedoo/utkface-new
                                                                                                                                                
 # Libraries and Technologies Used
 • NumPy - For numerical computing                                                                                                                                                    
