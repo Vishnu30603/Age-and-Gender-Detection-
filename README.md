@@ -20,28 +20,12 @@ The project includes:
 Obtain the UTKFace dataset and place it in the ./UTKFace/ directory                                                                                                                  
                                                                                                                                                
 # Libraries and Technologies Used
-• NumPy - For numerical computing
-• Pandas - For data manipulation and analysis
-• Matplotlib - For data visualization
-• Seaborn - For statistical data visualization
-• TensorFlow - Deep learning framework
-• Keras - High-level neural networks API
-• TQDM - For adding progress bars to loops
-• PIL - Python Imaging Library for image processing
+• NumPy - For numerical computing                                                                                                                                                    
+• Pandas - For data manipulation and analysis                                                                                                                                        
+• Matplotlib - For data visualization                                                                                                                                                
+• Seaborn - For statistical data visualization                                                                                                                                       
+• TensorFlow - Deep learning framework                                                                                                                                               
+• Keras - High-level neural networks API                                                                                                                                             
+• TQDM - For adding progress bars to loops                                                                                                                                           
+• PIL - Python Imaging Library for image processing                                                                                                                                  
 
-
-
-Results
-Accuracy Graph
-
-Loss Graph
-
-Prediction Examples
-Original Gender: Female, Original Age: 32
-Predicted Gender: Female, Predicted Age: 31
-
-Original Gender: Male, Original Age: 42
-Predicted Gender: Male, Predicted Age: 38
-
-Original Gender: Female, Original Age: 28
-Predicted Gender: Female, Predicted Age: 28
